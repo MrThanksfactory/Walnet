@@ -1,4 +1,4 @@
 # Walnet
-HTML, site solo (permet d'accéder à vos fichiers!;))
+HTML, site solo (permet d'accéder à vos fichiers! ;p
 
-Branchait votre clé USB sur votre ordi et lançait le site html téléchargé en zip !
+Branchez votre clé USB sur votre ordi et lançez le site html téléchargé en zip !
